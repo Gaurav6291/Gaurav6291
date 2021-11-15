@@ -9,9 +9,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on the clone of Reddit.com
+- 🔭 I’m currently working on the clone of whatsapp.com
 
-- 🌱 I’m currently learning **Mearn Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
