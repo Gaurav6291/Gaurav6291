@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on the clone of whatsapp.com
+- 🔭 I’m currently working on some laravel projects
 
 - 🌱 I’m currently learning **MERN Stack**
 
